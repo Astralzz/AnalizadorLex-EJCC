@@ -1,0 +1,4 @@
+double []Arr = new double[10];
+for (int i = 0; i < Arreglo.length; i++) {
+  Arr[i] = Math.random()*10;
+}
