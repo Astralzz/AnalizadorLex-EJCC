@@ -6,7 +6,7 @@ Acepta y analiza simbolos,
 Echo con hilos y tablas
 
 link del video explicativo
-https://youtu.be/tmK1X6-JH9E
+https://www.youtube.com/watch?v=mQVrvhw31nY
 
 Link de mi canal de youtube
 https://youtube.com/channel/UCcOJzhRKbH87qIr6r6mqO1w
@@ -26,7 +26,7 @@ Accepts and analyzes symbols,
 Made with Threads and boards
 
 explanatory video link
-https://youtu.be/tmK1X6-JH9E
+https://www.youtube.com/watch?v=mQVrvhw31nY
 
 Link of my youtube channel
 https://youtube.com/channel/UCcOJzhRKbH87qIr6r6mqO1w
