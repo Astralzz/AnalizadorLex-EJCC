@@ -1,5 +1,10 @@
 package interfazGrafica;
 
+/*
+Echo por Edain
+Regalame un like y suscribete
+GG :3
+ */
 import metodos.Metodos;
 import interfazAnalizador.PanelAnalizador;
 import interfazCrear.PanelCrear;
@@ -112,7 +117,7 @@ public class Ventana extends JFrame implements Runnable {
         Fecha = DateTimeFormatter.ofPattern("dd");
         String dia = Fecha.format(LocalDateTime.now());
 
-        return  dia + " de " + mes + " del " + año;
+        return dia + " de " + mes + " del " + año;
     }
 
     //Actualizar fecha

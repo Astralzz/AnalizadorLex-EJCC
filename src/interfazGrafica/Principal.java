@@ -1,5 +1,10 @@
 package interfazGrafica;
 
+/*
+Echo por Edain
+Regalame un like y suscribete
+GG :3
+ */
 import java.io.IOException;
 
 public class Principal {
@@ -71,4 +76,4 @@ public class Principal {
             }
         });
 
-*/
+ */
